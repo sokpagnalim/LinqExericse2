@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\bin\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\PracticeLinq\PracticeLinq\obj\Debug\netcoreapp3.1\PracticeLinq.genruntimeconfig.cache
